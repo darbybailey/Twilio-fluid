@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Response> 
+   	<Say>Please leave your message for the Shea Service team.</Say>
+	<Sms> Shea Service Status auto responder from ext 4066 DISPATCH </Sms>
+	<Record> timeout=“10” transcribe=“false” </Record>
+
+</Response>

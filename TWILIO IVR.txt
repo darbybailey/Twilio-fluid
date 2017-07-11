@@ -1,0 +1,39 @@
++1 385-999-4060	SHEA SERVICE
+
+Thanks for calling Shea Service, future home of FLUID Coffee and Beverage Goods.
+
+For the status of an order, press 1
+To schedule a repair press 2
+For our hours and location, press 3
+For Emergency service dispatch, press 4
+
+
+
+	STATUS (top level message at new number +1 385-999-4057) 
+	For the status of your order, please leave your first and last name or the name of your business and a phone number and we will call you with the status of your order within 24 hours. 
+
+
+	SCHEDULE (within top level)
+
+	For new customers, press 1
+	For returning customers, press 2
+
+
+		NEW CUSTOMER (top level message at new number +1 385-999-4058) 
+		The Shea Service level 1 maintenance package includes 1 hour of service, a baseline diagnostic, cleaning, adjustment and lube which will tell us the nature of any repairs needed. If your machine needs more than 1 hour of service we will call you to discuss further estimates and repairs. Our level 1 maintenance package is $89 dollars. Our machine drop off hours are Monday through Friday from 10am to 4pm. We are located at 532 South 400 west in Downtown Salt Lake City. If you have questions about on-site repairs, please leave your first and last name or the name of your business and we will return your call within 24 hours.
+
+		RETURNING CUSTOMER (top level message at new number+1 385-999-4059 )
+		For a Level 1 diagnostic, which includes 1 hour of service, a baseline diagnostic, cleaning, adjustment and lube, which will tell us the nature of any repairs needed, or if you know your machine needs more than 1 hour of service with more advanced repairs, or if you have questions, please leave your first and last name or the name of your business and we will return your call within 12 hours.
+
+	HOURS AND LOCATION (within top level)
+	Shea Service is located at 532 South 400 West in Downtown Salt Lake City. We are open Monday through Friday from 10am to 5pm.
+
+
+	EMERGENCY DISPATCH (2 HOUR CALL BACK)(top level message at new number +1 385-999-4066)
+	For emergency service needs and to have a repair tech dispatched for an emergency, please leave your first and last name and name of business and your phone number and we will return your call within 2 hours.
+
+
+	SECRET CODE (top level no-message, immediate transfer to shea’s phone)
+
+
+To repeat this press 5, to return to the main menu, press 0
